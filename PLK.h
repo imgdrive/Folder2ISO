@@ -1,4 +1,4 @@
-﻿{0x0415, L"Polish", {
+﻿{0x0415, L"Polish (Polski)", {
     L"Źró&dło:",
     L"&Cel:",
     L"&Etykieta:",

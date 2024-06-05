@@ -7,6 +7,8 @@ Folder2ISO is a free portable standalone tool to create ISO image files from fol
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.0</td><td><a href="https://github.com/imgdrive">Yubsoft</a></td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.0</td><td>Jun</td></tr>
+    <tr><td>French (Français)</td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.0</td><td>Fred & Kira</td></tr>
+    <tr><td>Polish</td><td><a href="PLK.h">CHS.h</a></td><td>&#x1F34F; 1.0</td><td>xesarni</td></tr>
 </table>
 
 ## How to translate
