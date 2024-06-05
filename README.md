@@ -1,4 +1,7 @@
 # Translations for Folder2ISO
+Folder2ISO is a free portable standalone tool to create ISO image files from folders.
+
+![image](https://github.com/imgdrive/Folder2ISO/assets/19568093/11c304f7-6201-4ab1-a42f-dc9fe47ccab9)
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
