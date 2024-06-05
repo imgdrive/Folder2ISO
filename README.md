@@ -2,8 +2,8 @@
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="ENU.h">CHS.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/imgdrive">Yubsoft</a></td></tr>
-    <tr><td>Chinese (¼òÌåÖÐÎÄ)</td><td><a href="CHS.h">ENU.ini</a></td><td>&#x1F34F; 2.1.9</td><td>Jun</td></tr>
+    <tr><td>English           </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.0</td><td><a href="https://github.com/imgdrive">Yubsoft</a></td></tr>
+    <tr><td>Chinese (ç®€ä½“ä¸­æ–‡)</td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.0</td><td>Jun</td></tr>
 </table>
 
 ## How to translate
