@@ -5,9 +5,9 @@
     L"&File system:",
     L"&Start",
     
-    L"Select or drag folder here",
-    L"Select output ISO file",
-    L"0 to 128 characters of label",
+    L"Select or drag a folder here",
+    L"Select the output ISO file",
+    L"0 to 128 characters of volume label",
     
     L"ISO9660",
     L"ISO9660 + UDF 1.02 (DVD)",
