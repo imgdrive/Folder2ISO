@@ -20,6 +20,7 @@
     L"&Utrzymuj na wierzchu",
     L"&Tłumaczenie",
     L"Zgłoś &problemy",
+    L"&Wiersz poleceń",
     L"&O programie Folder2ISO...",
     
     L"'%s' już istnieje.\n\nCzy chchcesz go zastąpić?",

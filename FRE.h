@@ -20,6 +20,7 @@
     L"&Toujours devant",
     L"&Traduction",
     L"&Rapporter un problème",
+    L"Ligne de &commande",
     L"&A propos de Folder2ISO...",
     
     L"'%s' existe déjà!\n\nVoulez-vous le remplacer?",

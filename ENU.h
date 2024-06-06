@@ -1,9 +1,9 @@
 ﻿{0x0409, L"English", {
-    L"&Source:",
-    L"&Target:",
-    L"&Label:",
-    L"&File system:",
-    L"&Start",
+    L"Source:",
+    L"Target:",
+    L"Label:",
+    L"File system:",
+    L"Start",
     
     L"Select or drag a folder here",
     L"Select the output ISO file",
@@ -20,6 +20,7 @@
     L"&Stay on top",
     L"&Translation",
     L"&Report issues",
+    L"&Command line",
     L"&About Folder2ISO...",
     
     L"'%s' already exists.\n\nDo you want to replace it?",
