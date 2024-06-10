@@ -1,8 +1,8 @@
 ﻿{0x040C, L"French (Français)", {
-    L"D&ossier source:",
-    L"Dossi&er de destination:",
-    L"&Nom de volume:",
-    L"&Système de fichiers:",
+    L"&Source:",
+    L"D&estination:",
+    L"&Label:",
+    L"S&ystème:",
     L"&Démarrer",
     
     L"Sélectionnez ou glissez-déposez un dossier ici",
