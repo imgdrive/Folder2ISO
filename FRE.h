@@ -1,13 +1,13 @@
 ﻿{0x040C, L"French (Français)", {
-    L"&Dossier source:",
-    L"&Dossier de destination:",
+    L"D&ossier source:",
+    L"Dossi&er de destination:",
     L"&Nom de volume:",
     L"&Système de fichiers:",
     L"&Démarrer",
     
     L"Sélectionnez ou glissez-déposez un dossier ici",
     L"Sélectionnez l'emplacement et le nom du fichier ISO",
-    L"Nom de volume de 128 caractères maximum (Optionnel)",
+    L"Entrez un nom de 128 caractères maximum (Optionnel)",
     
     L"ISO9660",
     L"ISO9660 + UDF 1.02 (DVD)",
@@ -15,12 +15,12 @@
     L"UDF 2.50 (BD/UHD)",
     
     L"&Langage",
-    L"&Integrer dans le menu contextuel",
+    L"&Intégrer dans le menu contextuel",
     L"&Fermer quand terminé",
     L"&Toujours devant",
     L"Tra&duction",
     L"&Signaler un problème",
-    L"&Ligne de commande",
+    L"&Ligne de commande (Syntaxe)",
     L"&A propos de Folder2ISO...",
     
     L"'%s' existe déjà!\n\nVoulez-vous le remplacer?",
