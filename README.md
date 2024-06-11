@@ -5,9 +5,9 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.1</td><td>Yubsoft</td></tr>
+    <tr><td>English           </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.2</td><td>Yubsoft</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="BUL.h">BUL.h</a></td><td>&#x1F34F; 1.1</td><td>jekovcar</td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.1</td><td>Jun</td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.2</td><td>Jun</td></tr>
     <tr><td>Chinese (繁體中文)</td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.1</td><td>屋塔房小貓</td></tr>
     <tr><td>French (Français)</td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.1</td><td>Fred & Kira</td></tr>
     <tr><td>German (Deutsch)</td><td><a href="DEU.h">DEU.h</a></td><td>&#x1F34F; 1.1</td><td>Yubsoft</td></tr>
@@ -20,15 +20,17 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
 ## How to translate
 1. Download <a href="https://raw.githubusercontent.com/imgdrive/Folder2ISO/main/ENU.h">ENU.h</a>.
 2. Translate the string in L""
-<pre>{0x0409, L"English", {  <b>// 0x0409 is LCID (Locale identifier), Folder2ISO use the LCID to select the default UI language</b>
-    L"Source:",         <b>// Translate the string in L""</b>
-    L"Target:",
-    L"Label:",
-    L"File system:",
-    L"Start",
-    ...
-    L"This program is freeware.\n\nAuthor: Young, Fred, Kira\nTranslator: null", <b>// Replace null with the translator name of your choice.</b>
-}},</pre>
+<pre>{
+    L"1.2",         // Version
+    0x0409,         // LCID - Locale identifier, Folder2ISO use the LCID to select the default UI language
+    L"English",     // Language name
+    {
+        L"Source:",
+        L"Target:",
+        ...
+        L"This program is freeware.\n\nAuthor: Young, Fred, Kira\nTranslator: null", // Replace null with the translator name
+    }
+},</pre>
 3. Send file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> or pull requests in GitHub.<br>Send mail to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> to request a new build if you want to test your latest translation.
 
 ## LCID - Locale identifier
