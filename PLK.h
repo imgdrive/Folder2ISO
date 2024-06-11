@@ -1,5 +1,5 @@
 ﻿{
-    L"1.1",         // Version
+    L"1.2",         // Version
     0x0415, 
     L"Polish (Polski)", 
     {
@@ -20,8 +20,8 @@
 
         L"&Język",
         L"Zintegruj z menu &kontekstowym powłoki",
-        L"&Allow multiple instances",
-        L"&Reveal in Explorer when finished",
+        L"Zezwalaj na &wiele instancji",
+        L"Pokaż w Eksp&loratorze po ukończeniu",
         L"&Zamknij po ukończeniu",
         L"&Utrzymuj na wierzchu",
         L"&Tłumaczenie",
