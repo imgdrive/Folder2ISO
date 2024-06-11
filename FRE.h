@@ -1,5 +1,5 @@
 ﻿{
-    L"1.1",         // Version
+    L"1.2",         // Version
     0x040C,
     L"French (Français)",
     {
