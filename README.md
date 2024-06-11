@@ -1,5 +1,5 @@
 # Translations for Folder2ISO
-Folder2ISO is a free portable standalone tool to create ISO image files from folders.
+Folder2ISO is a free portable standalone tool to create an ISO Image from a folder.
 
 ![image](https://github.com/imgdrive/Folder2ISO/assets/19568093/11c304f7-6201-4ab1-a42f-dc9fe47ccab9)
 
@@ -8,7 +8,7 @@ Folder2ISO is a free portable standalone tool to create ISO image files from fol
     <tr><td>English           </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.1</td><td>Yubsoft</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="BUL.h">BUL.h</a></td><td>&#x1F34F; 1.1</td><td>jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.1</td><td>Jun</td></tr>
-    <tr><td>Chinese (繁體中文)</td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.1</td><td>屋塔房小貓"</td></tr>
+    <tr><td>Chinese (繁體中文)</td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.1</td><td>屋塔房小貓</td></tr>
     <tr><td>French (Français)</td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.1</td><td>Fred & Kira</td></tr>
     <tr><td>German (Deutsch)</td><td><a href="DEU.h">DEU.h</a></td><td>&#x1F34F; 1.1</td><td>Yubsoft</td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="ITA.h">ITA.h</a></td><td>&#x1F34F; 1.1</td><td>Starix75</td></tr>
@@ -18,8 +18,18 @@ Folder2ISO is a free portable standalone tool to create ISO image files from fol
 </table>
 
 ## How to translate
-1. Download <a href="https://raw.githubusercontent.com/imgdrive/Folder2ISO/main/ENU.h">ENU.h</a>, translate it.
-2. Send file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> or pull requests in GitHub.
+1. Download <a href="https://raw.githubusercontent.com/imgdrive/Folder2ISO/main/ENU.h">ENU.h</a>.
+2. Translate the string in L""
+<pre>{0x0409, L"English", {  <b>// 0x0409 is LCID (Locale identifier), Folder2ISO use the LCID to select the default UI language</b>
+    L"Source:",         <b>// Translate the string in L""</b>
+    L"Target:",
+    L"Label:",
+    L"File system:",
+    L"Start",
+    ...
+    L"This program is freeware.\n\nAuthor: Young, Fred, Kira\nTranslator: null", <b>// Replace null with the translator name of your choice.</b>
+}},</pre>
+3. Send file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> or pull requests in GitHub.<br>Send mail to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> to request a new build if you want to test your latest translation.
 
 ## LCID - Locale identifier
 <table>
