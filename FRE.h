@@ -5,7 +5,7 @@
     {
         L"&Source:",
         L"D&estination:",
-        L"&Label:",
+        L"E&tiquette:",
         L"S&ystème:",
         L"&Démarrer",
 
@@ -20,9 +20,9 @@
 
         L"&Langage",
         L"&Intégrer dans le menu contextuel",
-        L"&Allow multiple instances",
-        L"&Reveal in Explorer when finished",
-        L"&Fermer quand terminé",
+        L"&Permettre plusieurs instances",
+        L"&Ouvrir l'Explorateur quand terminé",
+        L"&Fermer Folder2ISO quand terminé",
         L"&Toujours devant",
         L"Tra&duction",
         L"&Signaler un problème",
