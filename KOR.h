@@ -1,5 +1,5 @@
 ﻿{
-    L"1.1",         // Version
+    L"1.2",         // Version
     0x0412, 
     L"Korean (한국어)", 
     {
@@ -20,8 +20,8 @@
 
         L"언어(&L)",
         L"셸 컨텍스트 메뉴에 통합(&I)",
-        L"&Allow multiple instances",
-        L"&Reveal in Explorer when finished",
+        L"여러 인스턴스 허용(&A)",
+        L"완료되면 탐색기에서 표시(&R)",
         L"완료되면 닫기(&C)",
         L"맨 위에 유지(&S)",
         L"번역(&T)",
@@ -31,6 +31,6 @@
 
         L"'%s'가 이미 있습니다.\n\n교체하시겠습니까?",
         L"ISO 파일 (*.iso)\0*.iso\0\0",
-        L"이 프로그램은 프리웨어입니다.\n\n제작자: Young, Fred, Kira\n번역자: VenusGirl",
+        L"이 프로그램은 프리웨어입니다.\n\n제작: Young, Fred, Kira\n번역: VenusGirl-비너스걸",
     }
 },
