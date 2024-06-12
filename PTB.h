@@ -1,4 +1,4 @@
-{
+﻿{
     L"1.2",                  // Version
     0x0416,                  // LCID - Locale identifier
     L"Portuguese (Brazil)",  // Language name
