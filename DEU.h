@@ -1,4 +1,4 @@
-{
+﻿{
     L"1.2",         // Version
     0x0407, 
     L"German (Deutsch)",
