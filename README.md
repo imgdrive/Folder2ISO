@@ -8,7 +8,7 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
     <tr><td>English           </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.2</td><td>Yubsoft</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="BUL.h">BUL.h</a></td><td>&#x1F34F; 1.2</td><td>jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.2</td><td>Jun</td></tr>
-    <tr><td>Chinese (繁體中文)</td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.1</td><td>屋塔房小貓</td></tr>
+    <tr><td>Chinese (繁體中文)</td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.2</td><td>屋塔房小貓</td></tr>
     <tr><td>French (Français)</td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.2</td><td>Fred & Kira</td></tr>
     <tr><td>German (Deutsch)</td><td><a href="DEU.h">DEU.h</a></td><td>&#x1F34F; 1.2</td><td>Yubsoft</td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="ITA.h">ITA.h</a></td><td>&#x1F34F; 1.2</td><td>Starix75</td></tr>
