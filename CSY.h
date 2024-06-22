@@ -1,6 +1,6 @@
 ﻿{
     L"1.2",         // Verze
-    0x0409,         // 0405
+    0x0405,         // 0405
     L"Czech (čeština)",     // CSY
     {
         L"Zdroj:",
