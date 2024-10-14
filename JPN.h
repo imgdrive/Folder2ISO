@@ -1,7 +1,7 @@
 ﻿{
     L"1.2",         // Version
     0x0411,         // LCID - Locale identifier
-    L"Japanese",     // Language name
+    L"Japanese (日本語)",     // Language name
     {
         L"入力先:",
         L"出力先:",
