@@ -14,6 +14,7 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
     <tr><td>French (Français)       </td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.2</td><td>Fred & Kira</td></tr>
     <tr><td>German (Deutsch)        </td><td><a href="DEU.h">DEU.h</a></td><td>&#x1F34F; 1.2</td><td>Yubsoft</td></tr>
     <tr><td>Italian (Italiano)      </td><td><a href="ITA.h">ITA.h</a></td><td>&#x1F34F; 1.2</td><td>Starix75</td></tr>
+    <tr><td>Japanese (日本語)       </td><td><a href="JPN.h">JPN.h</a></td><td>&#x1F34F; 1.2</td><td>Re*Index.(ot_inc)</td></tr>
     <tr><td>Korean (한국어)            </td><td><a href="KOR.h">KOR.h</a></td><td>&#x1F34F; 1.2</td><td>VenusGirl</td></tr>
     <tr><td>Polish (Polski)         </td><td><a href="PLK.h">CHS.h</a></td><td>&#x1F34F; 1.2</td><td>xesarni</td></tr>
     <tr><td>Portuguese (Brazil)     </td><td><a href="PTB.h">PTB.h</a></td><td>&#x1F34F; 1.2</td><td>igorruckert</td></tr>
