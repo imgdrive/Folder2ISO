@@ -28,6 +28,11 @@
         L"문제 보고(&R)",
         L"명령줄(&C)",
         L"Folder2ISO 정보(&A)...",
+        
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
 
         L"'%s'가 이미 있습니다.\n\n교체하시겠습니까?",
         L"ISO 파일 (*.iso)\0*.iso\0\0",

@@ -29,6 +29,11 @@
         L"Linha de &comando",
         L"So&bre o Folder2ISO...",
         
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
+        
         L"'%s' já existe.\n\nDeseja substituí-lo?",
         L"Arquivo ISO (*.iso)\0*.iso\0\0",
         L"Este programa é gratuito.\n\nAutor: Young, Fred, Kira\nTradução: igorruckert", // Replace null with the translator name

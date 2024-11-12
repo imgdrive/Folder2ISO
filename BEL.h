@@ -29,6 +29,11 @@
         L"&Камандны радок",
         L"&Aб Folder2ISO...",
         
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
+        
         L"'%s' ужо існуе.\n\nЖадаеце замяніць яго?",
         L"ISO файлы (*.iso)\0*.iso\0\0",
         L"Гэта праграма бясплатная.\n\nАўтар: Young, Fred, Kira\nПераклаў: Tuteishy Habitant", // Replace null with the translator name

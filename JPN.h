@@ -29,6 +29,11 @@
         L"コマンドライン(&C)",
         L"Folder2ISO について(&A)...",
         
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
+        
         L"｢%s｣は既に存在します。\n\nファイルを置き換えてもよろしいですか?",
         L"ISO ファイル (*.iso)\0*.iso\0\0",
         L"このプログラムはフリーウェアです。\n\n開発者: Young, Fred, Kira\n翻訳者: Re*Index.(ot_inc)", // Replace null with the translator name

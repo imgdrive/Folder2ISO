@@ -28,6 +28,11 @@
         L"&Segnala problemi",
         L"&Linea di comando",
         L"&Informazioni su Folder2ISO...",
+        
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
 
         L"'%s' già esiste.\n\nVuoi sovrascrivelo?",
         L"ISO files (*.iso)\0*.iso\0\0",

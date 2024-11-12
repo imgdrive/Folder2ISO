@@ -29,6 +29,11 @@
         L"命令列(&C)",
         L"關於 Folder2ISO(&A)...",
         
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
+        
         L"'%s' 已存在。\n\n您想要取代它嗎？",
         L"ISO 檔案 (*.iso)\0*.iso\0\0",
         L"此程式是免費軟體。\n\n作者：Young, Fred, Kira\n翻譯者：屋塔房小貓",

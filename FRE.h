@@ -28,6 +28,11 @@
         L"&Signaler un problème",
         L"&Ligne de commande (Syntaxe)",
         L"&A propos de Folder2ISO...",
+        
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
 
         L"'%s' existe déjà!\n\nVoulez-vous le remplacer?",
         L"Fichiers ISO (*.iso)\0*.iso\0\0",

@@ -28,6 +28,11 @@
         L"Zgłoś &problemy",
         L"&Wiersz poleceń",
         L"&O programie Folder2ISO...",
+        
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
 
         L"'%s' już istnieje.\n\nCzy chchcesz go zastąpić?",
         L"Pliki ISO (*.iso)\0*.iso\0\0",

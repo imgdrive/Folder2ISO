@@ -29,6 +29,11 @@
         L"&Příkazový řádek",
         L"&O programu Folder2ISO...",
         
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
+        
         L"'%s' již existuje.\n\nChcete jej nahradit?",
         L"ISO soubory (*.iso)\0*.iso\0\0",
         L"Tento program je freeware.\n\nAutor: Young, Fred, Kira\nTranslator: hifi.pepino", // Nahraďte null jménem překladatele

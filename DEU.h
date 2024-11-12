@@ -28,6 +28,11 @@
         L"Probleme &melden",
         L"&Befehlszeile",
         L"&Über Folder2ISO ...",
+        
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
 
         L"'%s' ist bereits vorhanden.\n\nMöchten Sie diese ersetzen?",
         L"ISO-Dateien (*.iso)\0*.iso\0\0",

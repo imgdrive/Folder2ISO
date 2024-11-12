@@ -1,5 +1,5 @@
 ﻿{
-    L"1.2",         // Version
+    L"1.3",         // Version
     0x0409,         // LCID - Locale identifier
     L"English",     // Language name
     {
@@ -28,6 +28,11 @@
         L"&Report issues",
         L"&Command line",
         L"&About Folder2ISO...",
+        
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
         
         L"'%s' already exists.\n\nDo you want to replace it?",
         L"ISO files (*.iso)\0*.iso\0\0",

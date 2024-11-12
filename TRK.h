@@ -29,6 +29,11 @@
         L"&Komut Satırı",
         L"&Folder2ISO Hakkında...",
         
+        L"&Theme",
+        L"&Light",
+        L"&Dark",
+        L"&System",
+        
         L"'%s' zaten mevcut.\n\nÜzerine yazmak istermisin?",
         L"ISO dosyası (*.iso)\0*.iso\0\0",
         L"Bu Program freeware dir .\n\nYazar: Young, Fred, Kira\nÇeviren: Yaşar Bulut", // Replace null with the translator name
