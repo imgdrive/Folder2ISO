@@ -1,12 +1,12 @@
-﻿{
-    L"1.2",         // Version
+{
+    L"1.4",         // Version
     0x040C,
     L"French (Français)",
     {
         L"&Source:",
         L"D&estination:",
         L"E&tiquette:",
-        L"S&ystème:",
+        L"&Format:",
         L"&Démarrer",
 
         L"Sélectionnez ou glissez-déposez un dossier ici",
@@ -29,10 +29,10 @@
         L"&Ligne de commande (Syntaxe)",
         L"&A propos de Folder2ISO...",
         
-        L"&Theme",
-        L"&Light",
-        L"&Dark",
-        L"&System",
+        L"&Mode",
+        L"&Clair",
+        L"&Sombre",
+        L"S&ystème",
 
         L"'%s' existe déjà!\n\nVoulez-vous le remplacer?",
         L"Fichiers ISO (*.iso)\0*.iso\0\0",
