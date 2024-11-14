@@ -29,10 +29,10 @@
         L"命令列(&C)",
         L"關於 Folder2ISO(&A)...",
         
-        L"&Theme",
-        L"&Light",
-        L"&Dark",
-        L"&System",
+        L"主題(&T)",
+        L"淺色(&L)",
+        L"暗色(&D)",
+        L"系統(&S)",
         
         L"'%s' 已存在。\n\n您想要取代它嗎？",
         L"ISO 檔案 (*.iso)\0*.iso\0\0",
