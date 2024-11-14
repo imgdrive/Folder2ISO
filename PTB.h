@@ -1,5 +1,5 @@
-﻿{
-    L"1.2",                  // Version
+{
+    L"1.3",                  // Version
     0x0416,                  // LCID - Locale identifier
     L"Portuguese (Brazil)",  // Language name
     {
@@ -29,10 +29,10 @@
         L"Linha de &comando",
         L"So&bre o Folder2ISO...",
         
-        L"&Theme",
-        L"&Light",
-        L"&Dark",
-        L"&System",
+        L"&Tema",
+        L"&Claro",
+        L"&Escuro",
+        L"&Sistema",
         
         L"'%s' já existe.\n\nDeseja substituí-lo?",
         L"Arquivo ISO (*.iso)\0*.iso\0\0",
