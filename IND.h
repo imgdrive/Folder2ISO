@@ -1,7 +1,7 @@
 {
-    L"1.3",         // Version
-    0x0421,         // LCID - Locale identifier
-    L"Indonesian (ID)",     // Language name
+    L"1.3",         
+    0x0421,         
+    L"Indonesian (ID)",     
     {
         L"Sumber:",
         L"Tujuan:",
@@ -36,6 +36,6 @@
         
         L"'%s' sudah ada.\n\nApakah anda ingin menimpanya?",
         L"Berkas ISO (*.iso)\0*.iso\0\0",
-        L"Program ini gratis.\n\nDibuat: Young, Fred, Kira\nPenerjemah: Lieba Natur Brilian", // Replace null with the translator name
+        L"Program ini gratis.\n\nDibuat: Young, Fred, Kira\nPenerjemah: Lieba Natur Brilian",
     }
 },
