@@ -1,5 +1,5 @@
 ﻿{
-    L"1.2",         // Version
+    L"1.3",         // Version
     0x0411,         // LCID - Locale identifier
     L"Japanese (日本語)",     // Language name
     {
@@ -29,10 +29,10 @@
         L"コマンドライン(&C)",
         L"Folder2ISO について(&A)...",
         
-        L"&Theme",
-        L"&Light",
-        L"&Dark",
-        L"&System",
+        L"テーマ(&T)",
+        L"ライト(&L)",
+        L"ダーク(&D)",
+        L"システム(&S)",
         
         L"｢%s｣は既に存在します。\n\nファイルを置き換えてもよろしいですか?",
         L"ISO ファイル (*.iso)\0*.iso\0\0",
