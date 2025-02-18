@@ -1,4 +1,4 @@
-{
+﻿{
     L"1.4",         // Version
     0x040C,
     L"French (Français)",
