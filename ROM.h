@@ -1,4 +1,4 @@
-{
+﻿{
     L"1.3",         // Version
     0x0418,         // LCID - Locale identifier
     L"Romanian (România)",     // Language name

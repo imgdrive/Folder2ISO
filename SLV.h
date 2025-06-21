@@ -1,7 +1,7 @@
 ﻿{
     L"1.4.3",         // Version
     0x0424,         // LCID - Locale identifier
-    L"Slovenian",     // Language name
+    L"Slovenian (Slovenščina)",     // Language name
     {
         L"Vir:",
         L"Cilj:",
