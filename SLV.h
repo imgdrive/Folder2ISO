@@ -5,7 +5,7 @@
     {
         L"Vir:",
         L"Cilj:",
-        L"Label:",
+        L"Oznaka:",
         L"Datotečni sistem:",
         L"Začni",
         
