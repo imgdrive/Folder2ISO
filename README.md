@@ -9,6 +9,7 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
     <tr><td>Arabic (العربية)            </td><td><a href="ARA.h">ARA.h</a></td><td>&#x1F34F; 1.3</td><td>abdslam</td></tr>
     <tr><td>Belarusian (Беларусь)</td><td><a href="BEL.h">BEL.h</a></td><td>&#x1F34F; 1.3</td><td>Tuteishy Habitant</td></tr>
     <tr><td>Bulgarian (Български)   </td><td><a href="BUL.h">BUL.h</a></td><td>&#x1F34F; 1.2</td><td>jekovcar</td></tr>
+    <tr><td>Catalan (Català)        </td><td><a href="CAT.h">CAT.h</a></td><td>&#x1F34F; 1.3</td><td>Invicta</td></tr>
     <tr><td>Chinese (简体中文)      </td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.3</td><td>Jun</td></tr>
     <tr><td>Chinese (繁體中文)      </td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.3</td><td>屋塔房小貓</td></tr>
     <tr><td>Czech (čeština)         </td><td><a href="CSY.h">CSY.h</a></td><td>&#x1F34F; 1.2</td><td>hifi.pepino</td></tr>
@@ -24,6 +25,7 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
     <tr><td>Russian (Русский)       </td><td><a href="RUS.h">RUS.h</a></td><td>&#x1F34F; 1.2</td><td>jekovcar</td></tr>
     <tr><td>Slovak (Slovenčina)     </td><td><a href="SKY.h">SKY.h</a></td><td>&#x1F34F; 1.2</td><td>Rudolfin</td></tr>
     <tr><td>Slovenian (Slovenščina) </td><td><a href="SLV.h">SLV.h</a></td><td>&#x1F34F; 1.2</td><td>Marko(max)</td></tr>
+    <tr><td>Spanish (Chile)         </td><td><a href="ESL.h">ESL.h</a></td><td>&#x1F34F; 1.3</td><td>rudacoba</td></tr>
     <tr><td>Turkish (Türkçe)        </td><td><a href="TRK.h">TRK.h</a></td><td>&#x1F34F; 1.2</td><td>Yaşar Bulut</td></tr>
 </table>
 
