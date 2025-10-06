@@ -5,26 +5,27 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English                 </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.3</td><td>Yubsoft</td></tr>
-    <tr><td>Arabic (العربية)            </td><td><a href="ARA.h">ARA.h</a></td><td>&#x1F34F; 1.3</td><td>abdslam</td></tr>
+    <tr><td>English                 </td><td><a href="ENU.h">ENU.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/yubsoft">yubsoft</a></td></tr>
+    <tr><td>Arabic (العربية)            </td><td><a href="ARA.h">ARA.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/abdslam">abdslam</a></td></tr>
     <tr><td>Belarusian (Беларусь)</td><td><a href="BEL.h">BEL.h</a></td><td>&#x1F34F; 1.3</td><td>Tuteishy Habitant</td></tr>
-    <tr><td>Bulgarian (Български)   </td><td><a href="BUL.h">BUL.h</a></td><td>&#x1F34F; 1.2</td><td>jekovcar</td></tr>
-    <tr><td>Catalan (Català)        </td><td><a href="CAT.h">CAT.h</a></td><td>&#x1F34F; 1.3</td><td>Invicta</td></tr>
-    <tr><td>Chinese (简体中文)      </td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.3</td><td>Jun</td></tr>
-    <tr><td>Chinese (繁體中文)      </td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.3</td><td>屋塔房小貓</td></tr>
+    <tr><td>Bulgarian (Български)   </td><td><a href="BUL.h">BUL.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
+    <tr><td>Catalan (Català)        </td><td><a href="CAT.h">CAT.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/Invicta">Invicta</a></td></tr>
+    <tr><td>Chinese (简体中文)      </td><td><a href="CHS.h">CHS.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/jun">jun</a></td></tr>
+    <tr><td>Chinese (繁體中文)      </td><td><a href="CHT.h">CHT.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/Wutafuncat">Wutafuncat</a></td></tr>
     <tr><td>Czech (čeština)         </td><td><a href="CSY.h">CSY.h</a></td><td>&#x1F34F; 1.2</td><td>hifi.pepino</td></tr>
-    <tr><td>French (Français)       </td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.3</td><td>Fred & Kira</td></tr>
-    <tr><td>German (Deutsch)        </td><td><a href="DEU.h">DEU.h</a></td><td>&#x1F34F; 1.2</td><td>Yubsoft</td></tr>
-    <tr><td>Hungarian (magyar)      </td><td><a href="HUN.h">HUN.h</a></td><td>&#x1F34F; 1.2</td><td>La_Valse</td></tr>
-    <tr><td>Italian (Italiano)      </td><td><a href="ITA.h">ITA.h</a></td><td>&#x1F34F; 1.2</td><td>Starix75</td></tr>
-    <tr><td>Japanese (日本語)       </td><td><a href="JPN.h">JPN.h</a></td><td>&#x1F34F; 1.2</td><td>Re*Index.(ot_inc)</td></tr>
-    <tr><td>Korean (한국어)            </td><td><a href="KOR.h">KOR.h</a></td><td>&#x1F34F; 1.3</td><td>VenusGirl</td></tr>
-    <tr><td>Polish (Polski)         </td><td><a href="PLK.h">CHS.h</a></td><td>&#x1F34F; 1.2</td><td>xesarni</td></tr>
-    <tr><td>Portuguese (Brazil)     </td><td><a href="PTB.h">PTB.h</a></td><td>&#x1F34F; 1.3</td><td>igorruckert</td></tr>
-    <tr><td>Romanian (România)       </td><td><a href="ROM.h">ROM.h</a></td><td>&#x1F34F; 1.3</td><td>CMH09</td></tr>
-    <tr><td>Russian (Русский)       </td><td><a href="RUS.h">RUS.h</a></td><td>&#x1F34F; 1.2</td><td>jekovcar</td></tr>
-    <tr><td>Slovak (Slovenčina)     </td><td><a href="SKY.h">SKY.h</a></td><td>&#x1F34F; 1.2</td><td>Rudolfin</td></tr>
-    <tr><td>Slovenian (Slovenščina) </td><td><a href="SLV.h">SLV.h</a></td><td>&#x1F34F; 1.2</td><td>Marko(max)</td></tr>
+    <tr><td>French (Français)       </td><td><a href="FRE.h">FRE.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
+    <tr><td>German (Deutsch)        </td><td><a href="DEU.h">DEU.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/yubsoft">yubsoft</a></td></tr>
+    <tr><td>Hungarian (Magyar)      </td><td><a href="HUN.h">HUN.h</a></td><td>&#x1F34F; 1.2</td><td>La_Valse</td></tr>
+    <tr><td>Indonesian (Indonesia)  </td><td><a href="IND.h">IND.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/naturbrilian">naturbrilian</a></td></tr>
+    <tr><td>Italian (Italiano)      </td><td><a href="ITA.h">ITA.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/Starix75">Starix75</a></td></tr>
+    <tr><td>Japanese (日本語)       </td><td><a href="JPN.h">JPN.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/reindex-ot">reindex-ot</a></td></tr>
+    <tr><td>Korean (한국어)            </td><td><a href="KOR.h">KOR.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
+    <tr><td>Polish (Polski)         </td><td><a href="PLK.h">PLK.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
+    <tr><td>Portuguese (Brazil)     </td><td><a href="PTB.h">PTB.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/igorruckert">igorruckert</a></td></tr>
+    <tr><td>Romanian (România)       </td><td><a href="ROM.h">ROM.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/C0M9H">C0M9H</a></td></tr>
+    <tr><td>Russian (Русский)       </td><td><a href="RUS.h">RUS.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
+    <tr><td>Slovak (Slovenčina)     </td><td><a href="SKY.h">SKY.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/Rudolfin">Rudolfin</a></td></tr>
+    <tr><td>Slovenian (Slovenščina) </td><td><a href="SLV.h">SLV.h</a></td><td>&#x1F34F; 1.2</td><td><a href="https://github.com/max-ima">max-ima</a></td></tr>
     <tr><td>Spanish (Chile)         </td><td><a href="ESL.h">ESL.h</a></td><td>&#x1F34F; 1.3</td><td>rudacoba</td></tr>
     <tr><td>Swedish (Svenska)         </td><td><a href="SVE.h">SVE.h</a></td><td>&#x1F34F; 1.3</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
     <tr><td>Turkish (Türkçe)        </td><td><a href="TRK.h">TRK.h</a></td><td>&#x1F34F; 1.2</td><td>Yaşar Bulut</td></tr>
@@ -34,7 +35,7 @@ Folder2ISO is a free portable standalone tool to create an ISO Image from a fold
 1. Download <a href="https://raw.githubusercontent.com/imgdrive/Folder2ISO/main/ENU.h">ENU.h</a>.
 2. Translate the string in L""
 <pre>{
-    L"1.2",         // Version
+    L"1.3",         // Version
     0x0409,         // LCID - Locale identifier, Folder2ISO use the LCID to select the default UI language
     L"English",     // Language name
     {
